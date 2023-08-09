@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "eslint": "^8.46.0",
+    "yaspeller": "^8.0.1"
+  },
+  "scripts": {
+    "yaspeller": "yaspeller ."
+  }
+}
